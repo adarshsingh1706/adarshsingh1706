@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Adarsh Singh</h1>
-<h3 align="center">Passionate about Web development, coding world and new technologies.</h3>
+<h3 align="center">Passionate about Web development,DSA,coding world and new technologies.</h3>
 
 - 🌱 I’m currently learning **Javascript,React.js**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **singhadarsh78398@gmail.com**
 
-- ⚡ Fun fact **I once played chess against my reflection in the mirror, and I still lost because I couldn't handle my own moves!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
