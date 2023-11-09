@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript,React.js**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **frontend development & Competative Coding**
 
 - 📫 How to reach me **singhadarsh78398@gmail.com**
 
