@@ -6,7 +6,7 @@
 - 💬 Ask me about **Web Development & Data Structures and Algorithms**
 
 - 📫 How to reach me **singhadarsh78398@gmail.com**
-- 📫 Portfolio:  **(https://adarsh-portfolio-chi.vercel.app/)**
+- 📫 Portfolio:  ** https://adarsh-portfolio-chi.vercel.app/ **
 
 
 
