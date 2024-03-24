@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Adarsh Singh</h1>
 <h3 align="center">Passionate about Web development,DSA,coding world and new technologies.</h3>
 
-- 🌱 I’m currently working on **React.js** and learning **Node.js**.
+- 🌱 I am currently working on **React.js**, **Node.js**,**express**,**MongoDB**.
 
 - 💬 Ask me about **Web Development & Data Structures and Algorithms**
 
