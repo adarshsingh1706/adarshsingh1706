@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm Adarsh Singh</h1>
-<h3 align="center">Passionate about Web development,DSA,coding world and new technologies.</h3>
+<h1 align="center">Hey There 👋, I'm Adarsh Singh</h1>
+<h2 align="center"> Student at VIT,Vellore </h2>
+<h3 align="center">Passionate about Full Stack Development and DSA.</h3>
 
 - 🌱 I am currently working on **React.js**, **Node.js**,**express**,**MongoDB**.
 
@@ -35,6 +36,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
 
 </p>
 
