@@ -1,10 +1,10 @@
 <h1 align="center">Hey There 👋, I'm Adarsh Singh</h1>
 <h2 align="center"> Student at VIT,Vellore </h2>
-<h3 align="center">Passionate about Full Stack Development and DSA.</h3>
+<h3 align="center">Passionate about DSA & Full Stack Development </h3>
 
-- 🌱 I am currently working on **React.js**, **Node.js**,**express**,**MongoDB**.
+- 🌱 I am currently working on **React.js**, **Node.js**,**Express.js**,**MongoDB**.
 
-- 💬 Ask me about **Web Development & Data Structures and Algorithms**
+- 💬 Ask me about **Full Stack Development & Data Structures and Algorithms**
 
 - 📫 How to reach me **singhadarsh78398@gmail.com**
 - 📫 Portfolio:  **https://adarsh-portfolio-chi.vercel.app/**
