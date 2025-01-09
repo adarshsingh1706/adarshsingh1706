@@ -2,7 +2,7 @@
 <h2 align="center"> Student at VIT,Vellore </h2>
 <h3 align="center">Passionate about DSA & Full Stack Development </h3>
 
-- 🌱 I am currently working on **React.js**, **Node.js**,**Express.js**,**MongoDB**.
+- 🌱 I am currently working on **Next.Js**, **React.js**, **Node.js**,**Express.js**,**MongoDB**.
 
 - 💬 Ask me about **Full Stack Development & Data Structures and Algorithms**
 
