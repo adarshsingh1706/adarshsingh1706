@@ -7,7 +7,7 @@
 - 💬 Ask me about **Full Stack Development & Data Structures and Algorithms**
 
 - 📫 How to reach me **singhadarsh78398@gmail.com**
-- 📫 Portfolio:  **https://adarsh-portfolio-chi.vercel.app/**
+- 📫 Portfolio:  **https://adarshsingh-adarshsingh1706s-projects.vercel.app/**
 
 
 
